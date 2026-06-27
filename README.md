@@ -1,4 +1,4 @@
-# Educational Keylogger – Awareness Tool (v1)
+# Python based Keylogger  (v1)
 
 **⚠️ WARNING: For educational and authorised testing only.  
 Unauthorised use is illegal and unethical.**
