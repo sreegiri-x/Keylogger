@@ -6,6 +6,7 @@ Unauthorised use is illegal and unethical.**
 This project demonstrates how keystroke logging works on Windows, macOS, and Linux.  
 It is intended to raise awareness about cybersecurity risks and promote safe practices.
 
+
 ## Features
 - Cross‑platform (Python + pynput)
 - Logs keystrokes locally with timestamps
@@ -29,3 +30,21 @@ The author is not responsible for any misuse. By using this code, you agree to c
 
 ## License
 MIT (or your chosen license)
+# ⌨️ Keylogger v1 – Educational Demo
+
+Welcome to the wiki!
+
+This is a minimal, readable Python keylogger built to show you exactly how these tools work under the hood. No mystery, no magic – just code.
+
+## What you'll see
+- How keystrokes are captured in real time.
+- How logs are written to a file.
+- How data can be sent out via email (if enabled).
+
+## A quick word
+This is **not** a hacking tool. It's a teaching tool.  
+Use it on your own machines, in a classroom, or with explicit permission – never on someone else's device without consent.
+
+---
+
+➡️ Head over to **[Setup and Installation](Setup-and-Installation)** to get started.
