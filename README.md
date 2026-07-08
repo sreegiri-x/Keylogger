@@ -45,6 +45,4 @@ This is a minimal, readable Python keylogger built to show you exactly how these
 This is **not** a hacking tool. It's a teaching tool.  
 Use it on your own machines, in a classroom, or with explicit permission – never on someone else's device without consent.
 
----
 
-➡️ Head over to **[Setup and Installation](Setup-and-Installation)** to get started.
